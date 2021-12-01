@@ -1,5 +1,9 @@
 # Smart_Desktop_Assistant
 A smart desktop assistant chatbot can abel able to perform various tasks with face security feature.
+
+The smart desktop assistant is bulit by using tkinter GUI, Python
+
+
 Features / Tasks it can perform:
 
     Game (eg, Rock Paper Scissor with GUI)
@@ -29,7 +33,7 @@ Features / Tasks it can perform:
     Screenshots
     Volume Control
 
-# Libraires used for the project
+# Libraries used for the project (python libraries)
     SpeechRecognition
     pyttsx3
     playsound
