@@ -1,5 +1,5 @@
 # Smart_Desktop_Assistant
-A smart desktop assistant chatbot can abel able to perform various tasks with face security feature.
+A smart desktop assistant chatbot can able to perform various tasks with face security feature.
 
 The smart desktop assistant is bulit by using tkinter GUI, Python
 
